@@ -1,0 +1,9 @@
+GitCoAuthor
+-----------------------
+This package provides a co-authorship autocomplete in Git commit messages.
+
+The template can be configured in the package preferences.
+
+Please read the installation instructions at:
+
+https://github.com/TomasBarry/Sublime-git-co-author
