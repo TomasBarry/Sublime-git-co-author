@@ -11,7 +11,7 @@
       "children": [{
         "command": "open_file",
         "args": {
-          "file": "${packages}/GitCoAuthorSnippet/GitCoAuthor.sublime-settings"
+          "file": "${packages}/Git CoAuthor/GitCoAuthor.sublime-settings"
         },
         "caption": "Settings – Default"
       }, {
